@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @YD811
-- 👀 I’m interested in crypto, game dev,music.
-- 🌱 I’m currently learning python and solidity
+- 👀 I’m interested in crypto
 - 💞️ I’m looking to collaborate on crypto project
 - 📫 How to reach me TG YegorDO
 
